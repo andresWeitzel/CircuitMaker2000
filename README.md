@@ -9,7 +9,7 @@
 6)Empezar a diseñar :)
 
 
- Comando | Descrição |
-| --- | --- |
-| `git status` | Lista de todos os arquivos *modificados ou novos* |
-| `git diff` | Mostra as diferenças do arquivo que **não foram** preparadas |
+| Descrição |
+ | --- |
+| `git status` | 
+| `git diff` | 
